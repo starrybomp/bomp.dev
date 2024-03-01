@@ -21,7 +21,7 @@
 </script>
 
 <div class="bg-zinc-900 justify-item-center flex flex-col w-1/3 mt-6 p-4 pl-6 pt-4 pb-8 pt-8 ml-6 rounded-lg shadow">
-  <h1 class="text-4xl text-slate-100 font-bold rounded-lg"><img class="inline mb-1 rounded-lg" src={image} height="48" width="48"/>&nbsp;starrybomp <h2 class="text-2xl text-slate-300 rounded-lg font-normal inline">he/they</h2></h1>
+  <h1 class="text-4xl text-slate-100 font-bold rounded-lg"><img alt="fun little icon" class="inline mb-1 rounded-lg" src={image} height="48" width="48"/>&nbsp;starrybomp <h2 class="text-2xl text-slate-300 rounded-lg font-normal inline">he/they</h2></h1>
   <h2 class="text-2xl text-slate-200">Hello, I make, play, and occasionally stream games :)</h2>
 
   <h1 class="text-3xl mt-6 text-slate-100 font-bold rounded-lg">Contact</h1>
