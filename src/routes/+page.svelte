@@ -65,7 +65,7 @@
 
     <h1 class="text-3xl mt-6 text-slate-100 font-bold rounded-lg">Contact</h1>
     <div class="mt-2 flex flex-row gap-2 containter grid xl:grid-cols-3 sm:grid-cols-3">
-      <a href="https://discord.com/users/904100404332204102" target="_blank" class="text-center text-2xl mt-2 text-slate-300 rounded-lg pl-4 pr-4 pt-2 pb-2 bg-zinc-950 justify-items-center font-normal hover:bg-zinc-800 duration-300 shadow">Discord</a>
+      <a href="https://discord.gg/rTA3yNytK9" target="_blank" class="text-center text-2xl mt-2 text-slate-300 rounded-lg pl-4 pr-4 pt-2 pb-2 bg-zinc-950 justify-items-center font-normal hover:bg-zinc-800 duration-300 shadow">Discord</a>
       <a href="mailto:starry@bomp.dev" target="_blank" class="text-center text-2xl mt-2 text-slate-300 rounded-lg pl-4 pr-4 pt-2 pb-2 bg-zinc-950 justify-items-center font-normal hover:bg-zinc-800 duration-300 shadow">Email</a>
       <a href="https://twitter.com/starrybomp" target="_blank" class="text-center text-2xl mt-2 text-slate-300 rounded-lg pl-4 pr-4 pt-2 pb-2 bg-zinc-950 justify-items-center font-normal hover:bg-zinc-800 duration-300 shadow">Twitter</a>
       <a href="https://twitch.tv/starrybomp" target="_blank" class="text-center text-2xl mt-2 text-slate-300 rounded-lg pl-4 pr-4 pt-2 pb-2 bg-zinc-950 justify-items-center font-normal hover:bg-zinc-800 duration-300 shadow">Twitch</a>
